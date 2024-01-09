@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 0.842
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 638288680}
-  m_IndirectSpecularColor: {r: 0.053349093, g: 0.12454858, b: 0.14464006, a: 0.842}
+  m_IndirectSpecularColor: {r: 0.04567508, g: 0.106028154, b: 0.12231388, a: 0.842}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -608,7 +608,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 0
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: -1260034605
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_TargetDisplay: 0
 --- !u!224 &97043981
 RectTransform:
@@ -1280,7 +1280,7 @@ Canvas:
   serializedVersion: 3
   m_RenderMode: 1
   m_Camera: {fileID: 1453414995}
-  m_PlaneDistance: 2
+  m_PlaneDistance: 1
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
@@ -1290,7 +1290,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 0
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: -1260034605
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_TargetDisplay: 0
 --- !u!224 &535962916
 RectTransform:

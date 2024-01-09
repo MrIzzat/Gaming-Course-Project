@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.06335997, g: 0.14791992, b: 0.17178154, a: 1}
+  m_IndirectSpecularColor: {r: 0.054245938, g: 0.12592417, b: 0.14526589, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -608,7 +608,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 0
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: -1260034605
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_TargetDisplay: 0
 --- !u!224 &97043981
 RectTransform:
@@ -2540,6 +2540,10 @@ PrefabInstance:
       propertyPath: m_Delegates.Array.data[1].callback.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: MobilePlayerGun, Assembly-CSharp
       objectReference: {fileID: 0}
+    - target: {fileID: 419970572279824492, guid: 57719b84b14f2574e9eb0a2213e2985f, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 6520384212624586963}
     - target: {fileID: 1083617810701823187, guid: 57719b84b14f2574e9eb0a2213e2985f, type: 3}
       propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
