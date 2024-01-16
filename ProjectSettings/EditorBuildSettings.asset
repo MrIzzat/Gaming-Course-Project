@@ -6,15 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/PC Version/Main Menu.unity
-    guid: 4df7a5a0427b1474db6ee5e3f761fdf2
+    path: Assets/Scenes/Mobile Version/Main Menu.unity
+    guid: 95b6f8cf995b63d4b9f9d9ce6b8dadca
   - enabled: 1
-    path: Assets/Scenes/PC Version/Easy.unity
-    guid: 4fc28515511ce454fa15489459b2a376
+    path: Assets/Scenes/Mobile Version/Easy.unity
+    guid: 0ba1761011f806d4caf27869bb7c7ba9
   - enabled: 1
-    path: Assets/Scenes/PC Version/Hard.unity
-    guid: deb191ac0240d8d4495908a75971a09b
+    path: Assets/Scenes/Mobile Version/Medium.unity
+    guid: e15e4558528d39644bd3f3a6947c0b7a
   - enabled: 1
-    path: Assets/Scenes/PC Version/Medium.unity
-    guid: 25aa936fa4e316949a39ede61c971897
+    path: Assets/Scenes/Mobile Version/Hard.unity
+    guid: c9f7d6b54ac765642912ef51bf8a6e85
   m_configObjects: {}

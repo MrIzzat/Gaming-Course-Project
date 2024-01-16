@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.054245938, g: 0.12592417, b: 0.14526589, a: 1}
+  m_IndirectSpecularColor: {r: 0.056322437, g: 0.13083813, b: 0.15123054, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -4226,6 +4226,10 @@ PrefabInstance:
       propertyPath: txtEquation
       value: 
       objectReference: {fileID: 936082337}
+    - target: {fileID: 809219975598487945, guid: 9be00985aad5f8546ac0d667733d91c0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 44.75
+      objectReference: {fileID: 0}
     - target: {fileID: 3694119158342454483, guid: 9be00985aad5f8546ac0d667733d91c0, type: 3}
       propertyPath: m_Name
       value: HouseEnvironment

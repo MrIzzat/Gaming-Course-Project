@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 0.842
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 638288680}
-  m_IndirectSpecularColor: {r: 0.04567508, g: 0.106028154, b: 0.12231388, a: 0.842}
+  m_IndirectSpecularColor: {r: 0.048662957, g: 0.11319772, b: 0.13100255, a: 0.842}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1759,6 +1759,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4137067637031796506, guid: c386b8f502b7a934a9d322eb613cc931, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 44.75
+      objectReference: {fileID: 0}
     - target: {fileID: 6628205980103363452, guid: c386b8f502b7a934a9d322eb613cc931, type: 3}
       propertyPath: m_Name
       value: CastleEnvironment
